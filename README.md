@@ -1,4 +1,4 @@
-![cover](./src/assets/img/cover.png)
+![cover](./cover.png)
 
 # Pig-game
 
